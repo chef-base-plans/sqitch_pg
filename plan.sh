@@ -1,6 +1,6 @@
 pkg_name=sqitch_pg
 pkg_origin=core
-pkg_version="3.7.4"
+pkg_version="3.14.2"
 pkg_maintainer="The Habitat Maintainers humans@habitat.sh"
 pkg_license=('Artistic-1.0-Perl' 'GPL-2.0')
 pkg_deps=(
